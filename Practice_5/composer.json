@@ -1,0 +1,17 @@
+{
+    "name": "misha/practice_5",
+    "autoload": {
+        "psr-4": {
+            "Misha\\Practice5\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Studen4",
+            "email": "m.a.harbovskyi@student.khai.edu"
+        }
+    ],
+    "require": {
+        "symfony/var-dumper": "^6.4"
+    }
+}
